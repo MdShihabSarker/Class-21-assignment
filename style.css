@@ -1,0 +1,47 @@
+.carousel-caption h5{
+
+}
+.carousel-caption p{
+    padding-bottom: 285px;
+    font-weight: 100;
+    font-size: 12px;
+}
+.blockquote p{
+    font-size: 14px;
+}
+
+.Profile{
+    border-bottom: 2px solid #ddd;
+    padding: 20px 0;
+}
+
+  /* BLOCKQUOTE-SECTION  */
+
+  /* form  */
+  .w-40.ms-auto {
+    float: right;
+  }
+  .last-name {
+    float: right;
+    margin-top: -25px;
+  }
+  .w-50\% {
+    padding: 7px 10px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    width: 48%;
+  }
+  .w-70\%.d-flex {
+    width: 100%;
+    margin-right: 35px;
+    border-radius: 5px;
+    border: 1px solid #cecece;
+    padding: 7px 10px;
+  }
+  /* CARD-SECTION  */
+  .card-text.mt-2 {
+    margin-left: -14px;
+  }
+  .card {
+    margin-top: -3px;
+  }
